@@ -8,3 +8,4 @@ plugins:
   - jekyll-seo-tag
   - jekyll-remote-theme
 
+google_fonts: "Noto+Sans+JP:400,700"
