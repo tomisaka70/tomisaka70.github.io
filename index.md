@@ -1,9 +1,7 @@
 ---
 layout: page    
-title: "Tomisaka 70"
+title: "Star Formation Workshop"
 ---
-
-# Star Formation Workshop
 
 ## 日時
 
@@ -11,4 +9,6 @@ title: "Tomisaka 70"
 
 ## 参加登録
 
-## プログラム
+## プログラム 
+
+##
