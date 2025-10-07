@@ -1,5 +1,5 @@
 ---
-layout: default        # テーマの標準レイアウトを使う
+layout: home    
 title: "Tomisaka 70"
 ---
 
