@@ -4,7 +4,7 @@ title: "星惑星研究の軌跡と展望"
 image: /orion.jpg
 ---
 <p align="center">
-  <img src="/orion.jpg" alt="星惑星研究の軌跡と展望" width="90%">
+  <img src="/orion.jpg" alt="星惑星研究の軌跡と展望" width="100%">
 </p>
 
 ## 日時
