@@ -1,11 +1,11 @@
-title: Star Formation Workshop 2025
-description: # Workshop on Star Formation
+title: 星惑星研究の軌跡と展望
+description: # Workshop on Star and Planet Formation
 
-remote_theme: daviddarnes/alembic
+theme: minima
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-remote-theme
+
 
 google_fonts: "Noto+Sans+JP:400,700"
