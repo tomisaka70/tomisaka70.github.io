@@ -26,4 +26,13 @@ image: /orion.jpg
  
 ## プログラム 
 
+
+## 世話人
+- 柏木頼我(KASI)
+- 岩崎一成(国立天文台)
+- 片岡章雅(国立天文台)
+- 花山秀和(久留米大学)
+- 町田正博(九州大学)
+- 富田賢吾(東北大学)
+
 #### image credit: [ESA, Herschel](https://sci.esa.int/web/herschel/-/55953-orion-a-molecular-cloud)
