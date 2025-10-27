@@ -14,8 +14,7 @@ title: "星惑星研究の軌跡と展望"
 
 ## 参加登録
 
-以下のフォームよりご入力ください。
-https://docs.google.com/forms/d/e/1FAIpQLSePsvjfilbTGOZiPRERB5-rn2yHnODjhmZ9shcoFjz8XOdg4Q/viewform
+[フォーム](https://docs.google.com/forms/d/e/1FAIpQLSePsvjfilbTGOZiPRERB5-rn2yHnODjhmZ9shcoFjz8XOdg4Q/viewform)よりご入力ください。
 
 ## 特別企画
 
