@@ -1,7 +1,7 @@
 ---
 layout: page    
 title: "星惑星研究の軌跡と展望"
-image: orion.jpg
+image: /orion.jpg
 ---
 
 ## 日時
@@ -23,5 +23,4 @@ image: orion.jpg
  
 ## プログラム 
 
-### image credit
-[ESA, Herschel](https://sci.esa.int/web/herschel/-/55953-orion-a-molecular-cloud)
+#### image credit: [ESA, Herschel](https://sci.esa.int/web/herschel/-/55953-orion-a-molecular-cloud)
