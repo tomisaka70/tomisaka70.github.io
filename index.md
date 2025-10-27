@@ -1,10 +1,9 @@
 ---
 layout: page    
 title: "星惑星研究の軌跡と展望"
-image: /orion.jpg
 ---
 <p align="center">
-  <img src="/orion.jpg" alt="星惑星研究の軌跡と展望" width="100%">
+  <img src="/banner.jpg" alt="星惑星研究の軌跡と展望" width="100%">
 </p>
 
 ## 日時
@@ -35,4 +34,4 @@ image: /orion.jpg
 - 町田正博(九州大学)
 - 富田賢吾(東北大学)
 
-#### image credit: [ESA, Herschel](https://sci.esa.int/web/herschel/-/55953-orion-a-molecular-cloud)
+#### image credit: [ESA, Herschel](https://sci.esa.int/web/herschel/-/58822-star-formation-on-filaments-in-rcw106)
