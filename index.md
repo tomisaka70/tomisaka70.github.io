@@ -1,6 +1,6 @@
 ---
 layout: page    
-title: "星惑星研究の軌跡と展望"
+title: ""
 ---
 <p align="center">
   <img src="/banner.jpg" alt="星惑星研究の軌跡と展望" width="100%">
