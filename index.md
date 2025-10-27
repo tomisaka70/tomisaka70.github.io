@@ -1,14 +1,24 @@
 ---
 layout: page    
-title: "Star Formation Workshop"
+title: "星惑星研究の軌跡と展望"
 ---
 
 ## 日時
+2025年12月12日（金）～13日（土）
 
 ## 場所
+土湯温泉 山水荘（福島県福島市土湯温泉町）
+
+## 趣旨
+星惑星形成分野の理論・観測研究のこれまでの成果を振り返り、今後の展開を展望する
 
 ## 参加登録
 
-## プログラム 
+以下のフォームよりご入力ください。
+https://docs.google.com/forms/d/e/1FAIpQLSePsvjfilbTGOZiPRERB5-rn2yHnODjhmZ9shcoFjz8XOdg4Q/viewform
 
-##
+## 特別企画
+
+特別企画：富阪名誉教授 退官記念・古希お祝い会（12日19:00頃から）
+ 
+## プログラム 
